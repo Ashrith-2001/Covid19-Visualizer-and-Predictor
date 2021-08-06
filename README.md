@@ -35,7 +35,8 @@ well.
 Prophet is open source software released by Facebook’s Core Data Science team. Prophet is used in many
 applications across Facebook for producing reliable forecasts for planning and goal setting.
 
-Methodology
+
+              ##Methodology
 The method adopted is divided into 3 parts. 
  Data Analysis
  Data Visualization
