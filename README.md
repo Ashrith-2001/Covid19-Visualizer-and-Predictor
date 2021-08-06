@@ -45,3 +45,9 @@ The 3 stages together complete the project. Some of key stages of Machine Learni
 Analysis and Prediction parts. All the libraries discussed above were incorporated in any of the the parts
 mentioned. The error calculation and plotting is also accomlished in last part
 
+
+              ##Conclusions
+With our project we presented a comparative analysis of present status of covid-19 based on data collected from official websites, through graphical visualization. Forecasting of covid cases, deaths are accomplished with greater accuracy. The
+error analysis of model used, suggests the performance of model is good. This relatively good accuracy in prediction can be used for Medical Resource Optimization, ensuring demand planning stability, contact tracing, situational awareness and
+critical response. Though the model predicted well, it still prone to error as the number of testings on a given day vary which
+also becomes a variable. So this model can be further developed by incorporating multi variable algorithms.
