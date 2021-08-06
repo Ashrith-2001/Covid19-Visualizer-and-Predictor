@@ -1,4 +1,14 @@
 # Covid19-Visualizer-and-Predictor
+              ##Usage
+1. Download ICMR testing details .csv data set
+2. Download the notebook file
+3. Upload notebook file in jupyter/google colab 
+4. Change the date to current date wherever mentioned in code
+5. Upload ICMR dataset to runtime
+6. Run the notebook
+
+
+
               ##Description:
 
 The following are the brief descriptions of libraries employed in program, a python script. 
